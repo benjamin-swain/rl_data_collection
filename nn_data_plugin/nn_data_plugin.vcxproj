@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <VCProjectVersion>16.0</VCProjectVersion>
+    <ProjectGuid>{983A8CEF-E33B-4BCA-B46C-BAF37A7FC990}</ProjectGuid>
+    <RootNamespace>nndataplugin</RootNamespace>
+    <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>DynamicLibrary</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v142</PlatformToolset>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>DynamicLibrary</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v142</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v142</PlatformToolset>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v142</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="Shared">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <IncludePath>$(VC_IncludePath);$(WindowsSDK_IncludePath);</IncludePath>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <SDLCheck>true</SDLCheck>
+      <ConformanceMode>true</ConformanceMode>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <SDLCheck>true</SDLCheck>
+      <ConformanceMode>true</ConformanceMode>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+      <ConformanceMode>true</ConformanceMode>
+      <AdditionalIncludeDirectories>E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include; $(SolutionDir)Dependencies\eigen\include;  $(SolutionDir)Dependencies\frugally-deep\include; $(SolutionDir)Dependencies\functionalplus\include; $(SolutionDir)Dependencies\nlohmann\include; $(SolutionDir)Dependencies\vigem\include</AdditionalIncludeDirectories>
+      <LanguageStandard>
+      </LanguageStandard>
+      <RuntimeLibrary>MultiThreaded</RuntimeLibrary>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <AdditionalLibraryDirectories>E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\lib; $(SolutionDir)Dependencies\vigem\vigem_x64_vs19</AdditionalLibraryDirectories>
+      <AdditionalDependencies>kernel32.lib;user32.lib;gdi32.lib;winspool.lib;comdlg32.lib;advapi32.lib;shell32.lib;ole32.lib;oleaut32.lib;uuid.lib;odbc32.lib;odbccp32.lib;bakkesmod.lib;ViGEmClient.lib;%(AdditionalDependencies)</AdditionalDependencies>
+    </Link>
+    <PostBuildEvent>
+      <Command>E:\Ben\Documents\RL_AI\Docs\Bakkes\bakkesmod-patch "$(TargetPath)"</Command>
+    </PostBuildEvent>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+      <ConformanceMode>true</ConformanceMode>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClCompile Include="Source.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="nn_data.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\Dependencies\vigem\vigem_x64_vs19\ViGEmClient.dll" />
+    <None Include="..\Dependencies\vigem\vigem_x64_vs19\ViGEmClient.exp" />
+    <None Include="..\Dependencies\vigem\vigem_x64_vs19\ViGEmClient.ilk" />
+    <None Include="..\Dependencies\vigem\vigem_x64_vs19\ViGEmClient.pdb" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Library Include="..\Dependencies\vigem\vigem_x64_vs19\ViGEmClient.lib" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+    <Import Project="..\packages\cpprestsdk.v120.windesktop.msvcstl.dyn.rt-dyn.2.9.1\build\native\cpprestsdk.v120.windesktop.msvcstl.dyn.rt-dyn.targets" Condition="Exists('..\packages\cpprestsdk.v120.windesktop.msvcstl.dyn.rt-dyn.2.9.1\build\native\cpprestsdk.v120.windesktop.msvcstl.dyn.rt-dyn.targets')" />
+    <Import Project="..\packages\cpprestsdk.v140.windesktop.msvcstl.dyn.rt-dyn.2.9.1\build\native\cpprestsdk.v140.windesktop.msvcstl.dyn.rt-dyn.targets" Condition="Exists('..\packages\cpprestsdk.v140.windesktop.msvcstl.dyn.rt-dyn.2.9.1\build\native\cpprestsdk.v140.windesktop.msvcstl.dyn.rt-dyn.targets')" />
+    <Import Project="..\packages\Microsoft.Azure.Storage.CPP.v120.4.0.0\build\native\Microsoft.Azure.Storage.CPP.v120.targets" Condition="Exists('..\packages\Microsoft.Azure.Storage.CPP.v120.4.0.0\build\native\Microsoft.Azure.Storage.CPP.v120.targets')" />
+    <Import Project="..\packages\Microsoft.Azure.Storage.CPP.v140.4.0.0\build\native\Microsoft.Azure.Storage.CPP.v140.targets" Condition="Exists('..\packages\Microsoft.Azure.Storage.CPP.v140.4.0.0\build\native\Microsoft.Azure.Storage.CPP.v140.targets')" />
+    <Import Project="..\packages\wastorage.v120.4.0.0\build\native\wastorage.v120.targets" Condition="Exists('..\packages\wastorage.v120.4.0.0\build\native\wastorage.v120.targets')" />
+    <Import Project="..\packages\wastorage.v140.4.0.0\build\native\wastorage.v140.targets" Condition="Exists('..\packages\wastorage.v140.4.0.0\build\native\wastorage.v140.targets')" />
+    <Import Project="..\packages\microsoft.azure.storage.cpp.6.0.0\build\native\microsoft.azure.storage.cpp.targets" Condition="Exists('..\packages\microsoft.azure.storage.cpp.6.0.0\build\native\microsoft.azure.storage.cpp.targets')" />
+  </ImportGroup>
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\cpprestsdk.v120.windesktop.msvcstl.dyn.rt-dyn.2.9.1\build\native\cpprestsdk.v120.windesktop.msvcstl.dyn.rt-dyn.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\cpprestsdk.v120.windesktop.msvcstl.dyn.rt-dyn.2.9.1\build\native\cpprestsdk.v120.windesktop.msvcstl.dyn.rt-dyn.targets'))" />
+    <Error Condition="!Exists('..\packages\cpprestsdk.v140.windesktop.msvcstl.dyn.rt-dyn.2.9.1\build\native\cpprestsdk.v140.windesktop.msvcstl.dyn.rt-dyn.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\cpprestsdk.v140.windesktop.msvcstl.dyn.rt-dyn.2.9.1\build\native\cpprestsdk.v140.windesktop.msvcstl.dyn.rt-dyn.targets'))" />
+    <Error Condition="!Exists('..\packages\Microsoft.Azure.Storage.CPP.v120.4.0.0\build\native\Microsoft.Azure.Storage.CPP.v120.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.Azure.Storage.CPP.v120.4.0.0\build\native\Microsoft.Azure.Storage.CPP.v120.targets'))" />
+    <Error Condition="!Exists('..\packages\Microsoft.Azure.Storage.CPP.v140.4.0.0\build\native\Microsoft.Azure.Storage.CPP.v140.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.Azure.Storage.CPP.v140.4.0.0\build\native\Microsoft.Azure.Storage.CPP.v140.targets'))" />
+    <Error Condition="!Exists('..\packages\wastorage.v120.4.0.0\build\native\wastorage.v120.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\wastorage.v120.4.0.0\build\native\wastorage.v120.targets'))" />
+    <Error Condition="!Exists('..\packages\wastorage.v140.4.0.0\build\native\wastorage.v140.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\wastorage.v140.4.0.0\build\native\wastorage.v140.targets'))" />
+    <Error Condition="!Exists('..\packages\microsoft.azure.storage.cpp.6.0.0\build\native\microsoft.azure.storage.cpp.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\microsoft.azure.storage.cpp.6.0.0\build\native\microsoft.azure.storage.cpp.targets'))" />
+  </Target>
+</Project>

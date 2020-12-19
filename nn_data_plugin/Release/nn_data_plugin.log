@@ -1,0 +1,994 @@
+﻿  Source.cpp
+E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\linmath.h(56): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\linmath.h(57): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\linmath.h(58): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\linmath.h(341): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\linmath.h(372): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\linmath.h(372): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\wrapperstructs.h(61): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\wrapperstructs.h(107): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\wrapperstructs.h(111): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\wrapperstructs.h(112): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\wrapperstructs.h(135): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\wrapperstructs.h(136): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\wrapperstructs.h(168): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\wrapperstructs.h(169): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\wrapperstructs.h(216): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\wrapperstructs.h(216): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\wrapperstructs.h(220): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\wrapperstructs.h(220): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\wrapperstructs.h(224): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\wrapperstructs.h(224): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\wrapperstructs.h(228): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\wrapperstructs.h(228): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\wrapperstructs.h(292): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\wrapperstructs.h(293): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\wrapperstructs.h(302): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\wrapperstructs.h(303): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\wrapperstructs.h(304): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\wrapperstructs.h(305): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\wrapperstructs.h(306): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\wrapperstructs.h(307): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\cvarwrapper.h(19): warning C4251: 'CVarWrapper::pimpl': class 'std::unique_ptr<CVarWrapper::Impl,std::default_delete<_Ty>>' needs to have dll-interface to be used by clients of class 'CVarWrapper'
+          with
+          [
+              _Ty=CVarWrapper::Impl
+          ]
+  E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\cvarwrapper.h(19): note: see declaration of 'std::unique_ptr<CVarWrapper::Impl,std::default_delete<_Ty>>'
+          with
+          [
+              _Ty=CVarWrapper::Impl
+          ]
+E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\CVarManagerWrapper.h(32): warning C4251: 'CVarManagerWrapper::pimpl': class 'std::unique_ptr<CVarManagerWrapper::Impl,std::default_delete<_Ty>>' needs to have dll-interface to be used by clients of class 'CVarManagerWrapper'
+          with
+          [
+              _Ty=CVarManagerWrapper::Impl
+          ]
+  E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\CVarManagerWrapper.h(32): note: see declaration of 'std::unique_ptr<CVarManagerWrapper::Impl,std::default_delete<_Ty>>'
+          with
+          [
+              _Ty=CVarManagerWrapper::Impl
+          ]
+E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\Engine\ActorWrapper.h(190): warning C4251: 'ActorWrapper::pimpl': class 'std::unique_ptr<ActorWrapper::Impl,std::default_delete<_Ty>>' needs to have dll-interface to be used by clients of class 'ActorWrapper'
+          with
+          [
+              _Ty=ActorWrapper::Impl
+          ]
+  E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\Engine\ActorWrapper.h(190): note: see declaration of 'std::unique_ptr<ActorWrapper::Impl,std::default_delete<_Ty>>'
+          with
+          [
+              _Ty=ActorWrapper::Impl
+          ]
+E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\canvaswrapper.h(35): warning C4251: 'CanvasWrapper::pimpl': class 'std::unique_ptr<CanvasWrapper::Impl,std::default_delete<_Ty>>' needs to have dll-interface to be used by clients of class 'CanvasWrapper'
+          with
+          [
+              _Ty=CanvasWrapper::Impl
+          ]
+  E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\canvaswrapper.h(35): note: see declaration of 'std::unique_ptr<CanvasWrapper::Impl,std::default_delete<_Ty>>'
+          with
+          [
+              _Ty=CanvasWrapper::Impl
+          ]
+E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\mmrwrapper.h(16): warning C4251: 'MMRWrapper::pimpl': class 'std::unique_ptr<MMRWrapper::Impl,std::default_delete<_Ty>>' needs to have dll-interface to be used by clients of class 'MMRWrapper'
+          with
+          [
+              _Ty=MMRWrapper::Impl
+          ]
+  E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\mmrwrapper.h(16): note: see declaration of 'std::unique_ptr<MMRWrapper::Impl,std::default_delete<_Ty>>'
+          with
+          [
+              _Ty=MMRWrapper::Impl
+          ]
+E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\GameWrapper.h(85): warning C4251: 'GameWrapper::pimpl': class 'std::unique_ptr<GameWrapper::Impl,std::default_delete<_Ty>>' needs to have dll-interface to be used by clients of class 'GameWrapper'
+          with
+          [
+              _Ty=GameWrapper::Impl
+          ]
+  E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\GameWrapper.h(85): note: see declaration of 'std::unique_ptr<GameWrapper::Impl,std::default_delete<_Ty>>'
+          with
+          [
+              _Ty=GameWrapper::Impl
+          ]
+E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\Engine\EngineTAWrapper.h(67): warning C4251: 'EngineTAWrapper::pimpl': class 'std::unique_ptr<EngineTAWrapper::Impl,std::default_delete<_Ty>>' needs to have dll-interface to be used by clients of class 'EngineTAWrapper'
+          with
+          [
+              _Ty=EngineTAWrapper::Impl
+          ]
+  E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\Engine\EngineTAWrapper.h(67): note: see declaration of 'std::unique_ptr<EngineTAWrapper::Impl,std::default_delete<_Ty>>'
+          with
+          [
+              _Ty=EngineTAWrapper::Impl
+          ]
+E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\GameObject\RBActorWrapper.h(69): warning C4251: 'RBActorWrapper::pimpl': class 'std::unique_ptr<RBActorWrapper::Impl,std::default_delete<_Ty>>' needs to have dll-interface to be used by clients of class 'RBActorWrapper'
+          with
+          [
+              _Ty=RBActorWrapper::Impl
+          ]
+  E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\GameObject\RBActorWrapper.h(69): note: see declaration of 'std::unique_ptr<RBActorWrapper::Impl,std::default_delete<_Ty>>'
+          with
+          [
+              _Ty=RBActorWrapper::Impl
+          ]
+E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\GameObject\VehicleWrapper.h(88): warning C4251: 'VehicleWrapper::pimpl': class 'std::unique_ptr<VehicleWrapper::Impl,std::default_delete<_Ty>>' needs to have dll-interface to be used by clients of class 'VehicleWrapper'
+          with
+          [
+              _Ty=VehicleWrapper::Impl
+          ]
+  E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\GameObject\VehicleWrapper.h(88): note: see declaration of 'std::unique_ptr<VehicleWrapper::Impl,std::default_delete<_Ty>>'
+          with
+          [
+              _Ty=VehicleWrapper::Impl
+          ]
+E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\GameObject\CarWrapper.h(132): warning C4251: 'CarWrapper::pimpl': class 'std::unique_ptr<CarWrapper::Impl,std::default_delete<_Ty>>' needs to have dll-interface to be used by clients of class 'CarWrapper'
+          with
+          [
+              _Ty=CarWrapper::Impl
+          ]
+  E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\GameObject\CarWrapper.h(132): note: see declaration of 'std::unique_ptr<CarWrapper::Impl,std::default_delete<_Ty>>'
+          with
+          [
+              _Ty=CarWrapper::Impl
+          ]
+E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\GameObject\BallWrapper.h(106): warning C4251: 'BallWrapper::pimpl': class 'std::unique_ptr<BallWrapper::Impl,std::default_delete<_Ty>>' needs to have dll-interface to be used by clients of class 'BallWrapper'
+          with
+          [
+              _Ty=BallWrapper::Impl
+          ]
+  E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\GameObject\BallWrapper.h(106): note: see declaration of 'std::unique_ptr<BallWrapper::Impl,std::default_delete<_Ty>>'
+          with
+          [
+              _Ty=BallWrapper::Impl
+          ]
+E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\GameObject\PlayerReplicationInfoWrapper.h(91): warning C4251: 'PlayerReplicationInfoWrapper::pimpl': class 'std::unique_ptr<PlayerReplicationInfoWrapper::Impl,std::default_delete<_Ty>>' needs to have dll-interface to be used by clients of class 'PlayerReplicationInfoWrapper'
+          with
+          [
+              _Ty=PlayerReplicationInfoWrapper::Impl
+          ]
+  E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\GameObject\PlayerReplicationInfoWrapper.h(91): note: see declaration of 'std::unique_ptr<PlayerReplicationInfoWrapper::Impl,std::default_delete<_Ty>>'
+          with
+          [
+              _Ty=PlayerReplicationInfoWrapper::Impl
+          ]
+E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\GameObject\PriXWrapper.h(29): warning C4251: 'PriXWrapper::pimpl': class 'std::unique_ptr<PriXWrapper::Impl,std::default_delete<_Ty>>' needs to have dll-interface to be used by clients of class 'PriXWrapper'
+          with
+          [
+              _Ty=PriXWrapper::Impl
+          ]
+  E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\GameObject\PriXWrapper.h(29): note: see declaration of 'std::unique_ptr<PriXWrapper::Impl,std::default_delete<_Ty>>'
+          with
+          [
+              _Ty=PriXWrapper::Impl
+          ]
+E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\GameObject\PriWrapper.h(233): warning C4251: 'PriWrapper::pimpl': class 'std::unique_ptr<PriWrapper::Impl,std::default_delete<_Ty>>' needs to have dll-interface to be used by clients of class 'PriWrapper'
+          with
+          [
+              _Ty=PriWrapper::Impl
+          ]
+  E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\GameObject\PriWrapper.h(233): note: see declaration of 'std::unique_ptr<PriWrapper::Impl,std::default_delete<_Ty>>'
+          with
+          [
+              _Ty=PriWrapper::Impl
+          ]
+E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\GameObject\CarComponent\WheelWrapper.h(63): warning C4251: 'WheelWrapper::pimpl': class 'std::unique_ptr<WheelWrapper::Impl,std::default_delete<_Ty>>' needs to have dll-interface to be used by clients of class 'WheelWrapper'
+          with
+          [
+              _Ty=WheelWrapper::Impl
+          ]
+  E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\GameObject\CarComponent\WheelWrapper.h(63): note: see declaration of 'std::unique_ptr<WheelWrapper::Impl,std::default_delete<_Ty>>'
+          with
+          [
+              _Ty=WheelWrapper::Impl
+          ]
+E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\GameObject\CarComponent\CarComponentWrapper.h(65): warning C4251: 'CarComponentWrapper::pimpl': class 'std::unique_ptr<CarComponentWrapper::Impl,std::default_delete<_Ty>>' needs to have dll-interface to be used by clients of class 'CarComponentWrapper'
+          with
+          [
+              _Ty=CarComponentWrapper::Impl
+          ]
+  E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\GameObject\CarComponent\CarComponentWrapper.h(65): note: see declaration of 'std::unique_ptr<CarComponentWrapper::Impl,std::default_delete<_Ty>>'
+          with
+          [
+              _Ty=CarComponentWrapper::Impl
+          ]
+E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\GameObject\TeamInfoWrapper.h(27): warning C4251: 'TeamInfoWrapper::pimpl': class 'std::unique_ptr<TeamInfoWrapper::Impl,std::default_delete<_Ty>>' needs to have dll-interface to be used by clients of class 'TeamInfoWrapper'
+          with
+          [
+              _Ty=TeamInfoWrapper::Impl
+          ]
+  E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\GameObject\TeamInfoWrapper.h(27): note: see declaration of 'std::unique_ptr<TeamInfoWrapper::Impl,std::default_delete<_Ty>>'
+          with
+          [
+              _Ty=TeamInfoWrapper::Impl
+          ]
+E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\GameObject\TeamWrapper.h(71): warning C4251: 'TeamWrapper::pimpl': class 'std::unique_ptr<TeamWrapper::Impl,std::default_delete<_Ty>>' needs to have dll-interface to be used by clients of class 'TeamWrapper'
+          with
+          [
+              _Ty=TeamWrapper::Impl
+          ]
+  E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\GameObject\TeamWrapper.h(71): note: see declaration of 'std::unique_ptr<TeamWrapper::Impl,std::default_delete<_Ty>>'
+          with
+          [
+              _Ty=TeamWrapper::Impl
+          ]
+E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\GameObject\GoalWrapper.h(67): warning C4251: 'GoalWrapper::pimpl': class 'std::unique_ptr<GoalWrapper::Impl,std::default_delete<_Ty>>' needs to have dll-interface to be used by clients of class 'GoalWrapper'
+          with
+          [
+              _Ty=GoalWrapper::Impl
+          ]
+  E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\GameObject\GoalWrapper.h(67): note: see declaration of 'std::unique_ptr<GoalWrapper::Impl,std::default_delete<_Ty>>'
+          with
+          [
+              _Ty=GoalWrapper::Impl
+          ]
+E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\GameObject\VehiclePickupWrapper.h(49): warning C4251: 'VehiclePickupWrapper::pimpl': class 'std::unique_ptr<VehiclePickupWrapper::Impl,std::default_delete<_Ty>>' needs to have dll-interface to be used by clients of class 'VehiclePickupWrapper'
+          with
+          [
+              _Ty=VehiclePickupWrapper::Impl
+          ]
+  E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\GameObject\VehiclePickupWrapper.h(49): note: see declaration of 'std::unique_ptr<VehiclePickupWrapper::Impl,std::default_delete<_Ty>>'
+          with
+          [
+              _Ty=VehiclePickupWrapper::Impl
+          ]
+E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\GameObject\BoostPickupWrapper.h(23): warning C4251: 'BoostPickupWrapper::pimpl': class 'std::unique_ptr<BoostPickupWrapper::Impl,std::default_delete<_Ty>>' needs to have dll-interface to be used by clients of class 'BoostPickupWrapper'
+          with
+          [
+              _Ty=BoostPickupWrapper::Impl
+          ]
+  E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\GameObject\BoostPickupWrapper.h(23): note: see declaration of 'std::unique_ptr<BoostPickupWrapper::Impl,std::default_delete<_Ty>>'
+          with
+          [
+              _Ty=BoostPickupWrapper::Impl
+          ]
+E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\ArrayWrapper.h(39): warning C4251: 'ArrayWrapper<T>::pimpl': class 'std::unique_ptr<ArrayWrapper<T>::Impl,std::default_delete<_Ty>>' needs to have dll-interface to be used by clients of class 'ArrayWrapper<T>'
+          with
+          [
+              _Ty=ArrayWrapper<T>::Impl
+          ]
+  E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\ArrayWrapper.h(39): note: see declaration of 'std::unique_ptr<ArrayWrapper<T>::Impl,std::default_delete<_Ty>>'
+          with
+          [
+              _Ty=ArrayWrapper<T>::Impl
+          ]
+  E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\ArrayWrapper.h(40): note: see reference to class template instantiation 'ArrayWrapper<T>' being compiled
+  E:\Programs\Microsoft_Visual_Studio_2019_Community\VC\Tools\MSVC\14.20.27508\include\chrono(595): note: see reference to class template instantiation 'std::chrono::duration<double,std::ratio<1,1>>' being compiled
+  E:\Programs\Microsoft_Visual_Studio_2019_Community\VC\Tools\MSVC\14.20.27508\include\chrono(172): note: see reference to class template instantiation 'std::chrono::duration<__int64,std::nano>' being compiled
+  E:\Programs\Microsoft_Visual_Studio_2019_Community\VC\Tools\MSVC\14.20.27508\include\chrono(574): note: see reference to class template instantiation 'std::chrono::time_point<std::chrono::steady_clock,std::chrono::steady_clock::duration>' being compiled
+E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\ArrayWrapper.h(39): warning C4251: 'ArrayWrapper<ActorWrapper>::pimpl': class 'std::unique_ptr<ArrayWrapper<ActorWrapper>::Impl,std::default_delete<_Ty>>' needs to have dll-interface to be used by clients of class 'ArrayWrapper<ActorWrapper>'
+          with
+          [
+              _Ty=ArrayWrapper<ActorWrapper>::Impl
+          ]
+  E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\ArrayWrapper.h(39): note: see declaration of 'std::unique_ptr<ArrayWrapper<ActorWrapper>::Impl,std::default_delete<_Ty>>'
+          with
+          [
+              _Ty=ArrayWrapper<ActorWrapper>::Impl
+          ]
+  E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\ArrayWrapper.h(45): note: see reference to class template instantiation 'ArrayWrapper<ActorWrapper>' being compiled
+E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\ArrayWrapper.h(39): warning C4251: 'ArrayWrapper<TeamWrapper>::pimpl': class 'std::unique_ptr<ArrayWrapper<TeamWrapper>::Impl,std::default_delete<_Ty>>' needs to have dll-interface to be used by clients of class 'ArrayWrapper<TeamWrapper>'
+          with
+          [
+              _Ty=ArrayWrapper<TeamWrapper>::Impl
+          ]
+  E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\ArrayWrapper.h(39): note: see declaration of 'std::unique_ptr<ArrayWrapper<TeamWrapper>::Impl,std::default_delete<_Ty>>'
+          with
+          [
+              _Ty=ArrayWrapper<TeamWrapper>::Impl
+          ]
+  E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\ArrayWrapper.h(46): note: see reference to class template instantiation 'ArrayWrapper<TeamWrapper>' being compiled
+E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\ArrayWrapper.h(39): warning C4251: 'ArrayWrapper<CarWrapper>::pimpl': class 'std::unique_ptr<ArrayWrapper<CarWrapper>::Impl,std::default_delete<_Ty>>' needs to have dll-interface to be used by clients of class 'ArrayWrapper<CarWrapper>'
+          with
+          [
+              _Ty=ArrayWrapper<CarWrapper>::Impl
+          ]
+  E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\ArrayWrapper.h(39): note: see declaration of 'std::unique_ptr<ArrayWrapper<CarWrapper>::Impl,std::default_delete<_Ty>>'
+          with
+          [
+              _Ty=ArrayWrapper<CarWrapper>::Impl
+          ]
+  E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\ArrayWrapper.h(47): note: see reference to class template instantiation 'ArrayWrapper<CarWrapper>' being compiled
+E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\ArrayWrapper.h(39): warning C4251: 'ArrayWrapper<BallWrapper>::pimpl': class 'std::unique_ptr<ArrayWrapper<BallWrapper>::Impl,std::default_delete<_Ty>>' needs to have dll-interface to be used by clients of class 'ArrayWrapper<BallWrapper>'
+          with
+          [
+              _Ty=ArrayWrapper<BallWrapper>::Impl
+          ]
+  E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\ArrayWrapper.h(39): note: see declaration of 'std::unique_ptr<ArrayWrapper<BallWrapper>::Impl,std::default_delete<_Ty>>'
+          with
+          [
+              _Ty=ArrayWrapper<BallWrapper>::Impl
+          ]
+  E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\ArrayWrapper.h(48): note: see reference to class template instantiation 'ArrayWrapper<BallWrapper>' being compiled
+E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\ArrayWrapper.h(39): warning C4251: 'ArrayWrapper<PriWrapper>::pimpl': class 'std::unique_ptr<ArrayWrapper<PriWrapper>::Impl,std::default_delete<_Ty>>' needs to have dll-interface to be used by clients of class 'ArrayWrapper<PriWrapper>'
+          with
+          [
+              _Ty=ArrayWrapper<PriWrapper>::Impl
+          ]
+  E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\ArrayWrapper.h(39): note: see declaration of 'std::unique_ptr<ArrayWrapper<PriWrapper>::Impl,std::default_delete<_Ty>>'
+          with
+          [
+              _Ty=ArrayWrapper<PriWrapper>::Impl
+          ]
+  E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\ArrayWrapper.h(49): note: see reference to class template instantiation 'ArrayWrapper<PriWrapper>' being compiled
+E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\ArrayWrapper.h(39): warning C4251: 'ArrayWrapper<WheelWrapper>::pimpl': class 'std::unique_ptr<ArrayWrapper<WheelWrapper>::Impl,std::default_delete<_Ty>>' needs to have dll-interface to be used by clients of class 'ArrayWrapper<WheelWrapper>'
+          with
+          [
+              _Ty=ArrayWrapper<WheelWrapper>::Impl
+          ]
+  E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\ArrayWrapper.h(39): note: see declaration of 'std::unique_ptr<ArrayWrapper<WheelWrapper>::Impl,std::default_delete<_Ty>>'
+          with
+          [
+              _Ty=ArrayWrapper<WheelWrapper>::Impl
+          ]
+  E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\ArrayWrapper.h(50): note: see reference to class template instantiation 'ArrayWrapper<WheelWrapper>' being compiled
+E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\ArrayWrapper.h(39): warning C4251: 'ArrayWrapper<RBActorWrapper>::pimpl': class 'std::unique_ptr<ArrayWrapper<RBActorWrapper>::Impl,std::default_delete<_Ty>>' needs to have dll-interface to be used by clients of class 'ArrayWrapper<RBActorWrapper>'
+          with
+          [
+              _Ty=ArrayWrapper<RBActorWrapper>::Impl
+          ]
+  E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\ArrayWrapper.h(39): note: see declaration of 'std::unique_ptr<ArrayWrapper<RBActorWrapper>::Impl,std::default_delete<_Ty>>'
+          with
+          [
+              _Ty=ArrayWrapper<RBActorWrapper>::Impl
+          ]
+  E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\ArrayWrapper.h(51): note: see reference to class template instantiation 'ArrayWrapper<RBActorWrapper>' being compiled
+E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\ArrayWrapper.h(39): warning C4251: 'ArrayWrapper<CarComponentWrapper>::pimpl': class 'std::unique_ptr<ArrayWrapper<CarComponentWrapper>::Impl,std::default_delete<_Ty>>' needs to have dll-interface to be used by clients of class 'ArrayWrapper<CarComponentWrapper>'
+          with
+          [
+              _Ty=ArrayWrapper<CarComponentWrapper>::Impl
+          ]
+  E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\ArrayWrapper.h(39): note: see declaration of 'std::unique_ptr<ArrayWrapper<CarComponentWrapper>::Impl,std::default_delete<_Ty>>'
+          with
+          [
+              _Ty=ArrayWrapper<CarComponentWrapper>::Impl
+          ]
+  E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\ArrayWrapper.h(52): note: see reference to class template instantiation 'ArrayWrapper<CarComponentWrapper>' being compiled
+E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\ArrayWrapper.h(39): warning C4251: 'ArrayWrapper<GoalWrapper>::pimpl': class 'std::unique_ptr<ArrayWrapper<GoalWrapper>::Impl,std::default_delete<_Ty>>' needs to have dll-interface to be used by clients of class 'ArrayWrapper<GoalWrapper>'
+          with
+          [
+              _Ty=ArrayWrapper<GoalWrapper>::Impl
+          ]
+  E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\ArrayWrapper.h(39): note: see declaration of 'std::unique_ptr<ArrayWrapper<GoalWrapper>::Impl,std::default_delete<_Ty>>'
+          with
+          [
+              _Ty=ArrayWrapper<GoalWrapper>::Impl
+          ]
+  E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\ArrayWrapper.h(53): note: see reference to class template instantiation 'ArrayWrapper<GoalWrapper>' being compiled
+E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\ArrayWrapper.h(39): warning C4251: 'ArrayWrapper<BoostPickupWrapper>::pimpl': class 'std::unique_ptr<ArrayWrapper<BoostPickupWrapper>::Impl,std::default_delete<_Ty>>' needs to have dll-interface to be used by clients of class 'ArrayWrapper<BoostPickupWrapper>'
+          with
+          [
+              _Ty=ArrayWrapper<BoostPickupWrapper>::Impl
+          ]
+  E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\ArrayWrapper.h(39): note: see declaration of 'std::unique_ptr<ArrayWrapper<BoostPickupWrapper>::Impl,std::default_delete<_Ty>>'
+          with
+          [
+              _Ty=ArrayWrapper<BoostPickupWrapper>::Impl
+          ]
+  E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\ArrayWrapper.h(54): note: see reference to class template instantiation 'ArrayWrapper<BoostPickupWrapper>' being compiled
+E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\ArrayWrapper.h(39): warning C4251: 'ArrayWrapper<SampleHistoryWrapper>::pimpl': class 'std::unique_ptr<ArrayWrapper<SampleHistoryWrapper>::Impl,std::default_delete<_Ty>>' needs to have dll-interface to be used by clients of class 'ArrayWrapper<SampleHistoryWrapper>'
+          with
+          [
+              _Ty=ArrayWrapper<SampleHistoryWrapper>::Impl
+          ]
+  E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\ArrayWrapper.h(39): note: see declaration of 'std::unique_ptr<ArrayWrapper<SampleHistoryWrapper>::Impl,std::default_delete<_Ty>>'
+          with
+          [
+              _Ty=ArrayWrapper<SampleHistoryWrapper>::Impl
+          ]
+  E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\ArrayWrapper.h(55): note: see reference to class template instantiation 'ArrayWrapper<SampleHistoryWrapper>' being compiled
+E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\ArrayWrapper.h(39): warning C4251: 'ArrayWrapper<StatGraphWrapper>::pimpl': class 'std::unique_ptr<ArrayWrapper<StatGraphWrapper>::Impl,std::default_delete<_Ty>>' needs to have dll-interface to be used by clients of class 'ArrayWrapper<StatGraphWrapper>'
+          with
+          [
+              _Ty=ArrayWrapper<StatGraphWrapper>::Impl
+          ]
+  E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\ArrayWrapper.h(39): note: see declaration of 'std::unique_ptr<ArrayWrapper<StatGraphWrapper>::Impl,std::default_delete<_Ty>>'
+          with
+          [
+              _Ty=ArrayWrapper<StatGraphWrapper>::Impl
+          ]
+  E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\ArrayWrapper.h(56): note: see reference to class template instantiation 'ArrayWrapper<StatGraphWrapper>' being compiled
+E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\ArrayWrapper.h(39): warning C4251: 'ArrayWrapper<PlayerControllerWrapper>::pimpl': class 'std::unique_ptr<ArrayWrapper<PlayerControllerWrapper>::Impl,std::default_delete<_Ty>>' needs to have dll-interface to be used by clients of class 'ArrayWrapper<PlayerControllerWrapper>'
+          with
+          [
+              _Ty=ArrayWrapper<PlayerControllerWrapper>::Impl
+          ]
+  E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\ArrayWrapper.h(39): note: see declaration of 'std::unique_ptr<ArrayWrapper<PlayerControllerWrapper>::Impl,std::default_delete<_Ty>>'
+          with
+          [
+              _Ty=ArrayWrapper<PlayerControllerWrapper>::Impl
+          ]
+  E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\ArrayWrapper.h(57): note: see reference to class template instantiation 'ArrayWrapper<PlayerControllerWrapper>' being compiled
+E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\ArrayWrapper.h(39): warning C4251: 'ArrayWrapper<wchar_t>::pimpl': class 'std::unique_ptr<ArrayWrapper<wchar_t>::Impl,std::default_delete<_Ty>>' needs to have dll-interface to be used by clients of class 'ArrayWrapper<wchar_t>'
+          with
+          [
+              _Ty=ArrayWrapper<wchar_t>::Impl
+          ]
+  E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\ArrayWrapper.h(39): note: see declaration of 'std::unique_ptr<ArrayWrapper<wchar_t>::Impl,std::default_delete<_Ty>>'
+          with
+          [
+              _Ty=ArrayWrapper<wchar_t>::Impl
+          ]
+  E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\ArrayWrapper.h(58): note: see reference to class template instantiation 'ArrayWrapper<wchar_t>' being compiled
+E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\Engine\UnrealStringWrapper.h(15): warning C4251: 'UnrealStringWrapper::pimpl': class 'std::unique_ptr<UnrealStringWrapper::Impl,std::default_delete<_Ty>>' needs to have dll-interface to be used by clients of class 'UnrealStringWrapper'
+          with
+          [
+              _Ty=UnrealStringWrapper::Impl
+          ]
+  E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\Engine\UnrealStringWrapper.h(15): note: see declaration of 'std::unique_ptr<UnrealStringWrapper::Impl,std::default_delete<_Ty>>'
+          with
+          [
+              _Ty=UnrealStringWrapper::Impl
+          ]
+E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\GameEvent\GameEventWrapper.h(198): warning C4251: 'GameEventWrapper::pimpl': class 'std::unique_ptr<GameEventWrapper::Impl,std::default_delete<_Ty>>' needs to have dll-interface to be used by clients of class 'GameEventWrapper'
+          with
+          [
+              _Ty=GameEventWrapper::Impl
+          ]
+  E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\GameEvent\GameEventWrapper.h(198): note: see declaration of 'std::unique_ptr<GameEventWrapper::Impl,std::default_delete<_Ty>>'
+          with
+          [
+              _Ty=GameEventWrapper::Impl
+          ]
+E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\GameEvent\TeamGameEventWrapper.h(67): warning C4251: 'TeamGameEventWrapper::pimpl': class 'std::unique_ptr<TeamGameEventWrapper::Impl,std::default_delete<_Ty>>' needs to have dll-interface to be used by clients of class 'TeamGameEventWrapper'
+          with
+          [
+              _Ty=TeamGameEventWrapper::Impl
+          ]
+  E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\GameEvent\TeamGameEventWrapper.h(67): note: see declaration of 'std::unique_ptr<TeamGameEventWrapper::Impl,std::default_delete<_Ty>>'
+          with
+          [
+              _Ty=TeamGameEventWrapper::Impl
+          ]
+E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\GameEvent\ServerWrapper.h(280): warning C4251: 'ServerWrapper::pimpl': class 'std::unique_ptr<ServerWrapper::Impl,std::default_delete<_Ty>>' needs to have dll-interface to be used by clients of class 'ServerWrapper'
+          with
+          [
+              _Ty=ServerWrapper::Impl
+          ]
+  E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\GameEvent\ServerWrapper.h(280): note: see declaration of 'std::unique_ptr<ServerWrapper::Impl,std::default_delete<_Ty>>'
+          with
+          [
+              _Ty=ServerWrapper::Impl
+          ]
+E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\GameEvent\GameEditorWrapper.h(83): warning C4251: 'GameEditorWrapper::pimpl': class 'std::unique_ptr<GameEditorWrapper::Impl,std::default_delete<_Ty>>' needs to have dll-interface to be used by clients of class 'GameEditorWrapper'
+          with
+          [
+              _Ty=GameEditorWrapper::Impl
+          ]
+  E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\GameEvent\GameEditorWrapper.h(83): note: see declaration of 'std::unique_ptr<GameEditorWrapper::Impl,std::default_delete<_Ty>>'
+          with
+          [
+              _Ty=GameEditorWrapper::Impl
+          ]
+E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\GameEvent\GameSettingPlaylistWrapper.h(50): warning C4251: 'GameSettingPlaylistWrapper::pimpl': class 'std::unique_ptr<GameSettingPlaylistWrapper::Impl,std::default_delete<_Ty>>' needs to have dll-interface to be used by clients of class 'GameSettingPlaylistWrapper'
+          with
+          [
+              _Ty=GameSettingPlaylistWrapper::Impl
+          ]
+  E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\GameEvent\GameSettingPlaylistWrapper.h(50): note: see declaration of 'std::unique_ptr<GameSettingPlaylistWrapper::Impl,std::default_delete<_Ty>>'
+          with
+          [
+              _Ty=GameSettingPlaylistWrapper::Impl
+          ]
+E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\GameEvent\ReplayDirectorWrapper.h(105): warning C4251: 'ReplayDirectorWrapper::pimpl': class 'std::unique_ptr<ReplayDirectorWrapper::Impl,std::default_delete<_Ty>>' needs to have dll-interface to be used by clients of class 'ReplayDirectorWrapper'
+          with
+          [
+              _Ty=ReplayDirectorWrapper::Impl
+          ]
+  E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\GameEvent\ReplayDirectorWrapper.h(105): note: see declaration of 'std::unique_ptr<ReplayDirectorWrapper::Impl,std::default_delete<_Ty>>'
+          with
+          [
+              _Ty=ReplayDirectorWrapper::Impl
+          ]
+E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\GameEvent\ReplayWrapper.h(99): warning C4251: 'ReplayWrapper::pimpl': class 'std::unique_ptr<ReplayWrapper::Impl,std::default_delete<_Ty>>' needs to have dll-interface to be used by clients of class 'ReplayWrapper'
+          with
+          [
+              _Ty=ReplayWrapper::Impl
+          ]
+  E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\GameEvent\ReplayWrapper.h(99): note: see declaration of 'std::unique_ptr<ReplayWrapper::Impl,std::default_delete<_Ty>>'
+          with
+          [
+              _Ty=ReplayWrapper::Impl
+          ]
+E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\GameEvent\ReplaySoccarWrapper.h(32): warning C4251: 'ReplaySoccarWrapper::pimpl': class 'std::unique_ptr<ReplaySoccarWrapper::Impl,std::default_delete<_Ty>>' needs to have dll-interface to be used by clients of class 'ReplaySoccarWrapper'
+          with
+          [
+              _Ty=ReplaySoccarWrapper::Impl
+          ]
+  E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\GameEvent\ReplaySoccarWrapper.h(32): note: see declaration of 'std::unique_ptr<ReplaySoccarWrapper::Impl,std::default_delete<_Ty>>'
+          with
+          [
+              _Ty=ReplaySoccarWrapper::Impl
+          ]
+E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\GameEvent\SaveData\SaveDataWrapper.h(22): warning C4251: 'SaveDataWrapper::pimpl': class 'std::unique_ptr<SaveDataWrapper::Impl,std::default_delete<_Ty>>' needs to have dll-interface to be used by clients of class 'SaveDataWrapper'
+          with
+          [
+              _Ty=SaveDataWrapper::Impl
+          ]
+  E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\GameEvent\SaveData\SaveDataWrapper.h(22): note: see declaration of 'std::unique_ptr<SaveDataWrapper::Impl,std::default_delete<_Ty>>'
+          with
+          [
+              _Ty=SaveDataWrapper::Impl
+          ]
+E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\GameEvent\SaveData\GameEditorSaveDataWrapper.h(31): warning C4251: 'GameEditorSaveDataWrapper::pimpl': class 'std::unique_ptr<GameEditorSaveDataWrapper::Impl,std::default_delete<_Ty>>' needs to have dll-interface to be used by clients of class 'GameEditorSaveDataWrapper'
+          with
+          [
+              _Ty=GameEditorSaveDataWrapper::Impl
+          ]
+  E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\GameEvent\SaveData\GameEditorSaveDataWrapper.h(31): note: see declaration of 'std::unique_ptr<GameEditorSaveDataWrapper::Impl,std::default_delete<_Ty>>'
+          with
+          [
+              _Ty=GameEditorSaveDataWrapper::Impl
+          ]
+E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\GameEvent\SaveData\TrainingEditorSaveDataWrapper.h(33): warning C4251: 'TrainingEditorSaveDataWrapper::pimpl': class 'std::unique_ptr<TrainingEditorSaveDataWrapper::Impl,std::default_delete<_Ty>>' needs to have dll-interface to be used by clients of class 'TrainingEditorSaveDataWrapper'
+          with
+          [
+              _Ty=TrainingEditorSaveDataWrapper::Impl
+          ]
+  E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\GameEvent\SaveData\TrainingEditorSaveDataWrapper.h(33): note: see declaration of 'std::unique_ptr<TrainingEditorSaveDataWrapper::Impl,std::default_delete<_Ty>>'
+          with
+          [
+              _Ty=TrainingEditorSaveDataWrapper::Impl
+          ]
+E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\GameEvent\TrainingEditorWrapper.h(101): warning C4251: 'TrainingEditorWrapper::pimpl': class 'std::unique_ptr<TrainingEditorWrapper::Impl,std::default_delete<_Ty>>' needs to have dll-interface to be used by clients of class 'TrainingEditorWrapper'
+          with
+          [
+              _Ty=TrainingEditorWrapper::Impl
+          ]
+  E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\GameEvent\TrainingEditorWrapper.h(101): note: see declaration of 'std::unique_ptr<TrainingEditorWrapper::Impl,std::default_delete<_Ty>>'
+          with
+          [
+              _Ty=TrainingEditorWrapper::Impl
+          ]
+E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\GameEvent\TutorialWrapper.h(165): warning C4251: 'TutorialWrapper::pimpl': class 'std::unique_ptr<TutorialWrapper::Impl,std::default_delete<_Ty>>' needs to have dll-interface to be used by clients of class 'TutorialWrapper'
+          with
+          [
+              _Ty=TutorialWrapper::Impl
+          ]
+  E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\GameEvent\TutorialWrapper.h(165): note: see declaration of 'std::unique_ptr<TutorialWrapper::Impl,std::default_delete<_Ty>>'
+          with
+          [
+              _Ty=TutorialWrapper::Impl
+          ]
+E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\GameObject\BaseCameraWrapper.h(91): warning C4251: 'BaseCameraWrapper::pimpl': class 'std::unique_ptr<BaseCameraWrapper::Impl,std::default_delete<_Ty>>' needs to have dll-interface to be used by clients of class 'BaseCameraWrapper'
+          with
+          [
+              _Ty=BaseCameraWrapper::Impl
+          ]
+  E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\GameObject\BaseCameraWrapper.h(91): note: see declaration of 'std::unique_ptr<BaseCameraWrapper::Impl,std::default_delete<_Ty>>'
+          with
+          [
+              _Ty=BaseCameraWrapper::Impl
+          ]
+E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\GameObject\CameraXWrapper.h(51): warning C4251: 'CameraXWrapper::pimpl': class 'std::unique_ptr<CameraXWrapper::Impl,std::default_delete<_Ty>>' needs to have dll-interface to be used by clients of class 'CameraXWrapper'
+          with
+          [
+              _Ty=CameraXWrapper::Impl
+          ]
+  E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\GameObject\CameraXWrapper.h(51): note: see declaration of 'std::unique_ptr<CameraXWrapper::Impl,std::default_delete<_Ty>>'
+          with
+          [
+              _Ty=CameraXWrapper::Impl
+          ]
+E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\GameObject\CameraWrapper.h(62): warning C4251: 'CameraWrapper::pimpl': class 'std::unique_ptr<CameraWrapper::Impl,std::default_delete<_Ty>>' needs to have dll-interface to be used by clients of class 'CameraWrapper'
+          with
+          [
+              _Ty=CameraWrapper::Impl
+          ]
+  E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\GameObject\CameraWrapper.h(62): note: see declaration of 'std::unique_ptr<CameraWrapper::Impl,std::default_delete<_Ty>>'
+          with
+          [
+              _Ty=CameraWrapper::Impl
+          ]
+E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\GameObject\CarComponent\AirControlComponentWrapper.h(29): warning C4251: 'AirControlComponentWrapper::pimpl': class 'std::unique_ptr<AirControlComponentWrapper::Impl,std::default_delete<_Ty>>' needs to have dll-interface to be used by clients of class 'AirControlComponentWrapper'
+          with
+          [
+              _Ty=AirControlComponentWrapper::Impl
+          ]
+  E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\GameObject\CarComponent\AirControlComponentWrapper.h(29): note: see declaration of 'std::unique_ptr<AirControlComponentWrapper::Impl,std::default_delete<_Ty>>'
+          with
+          [
+              _Ty=AirControlComponentWrapper::Impl
+          ]
+E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\GameObject\CarComponent\BoostWrapper.h(73): warning C4251: 'BoostWrapper::pimpl': class 'std::unique_ptr<BoostWrapper::Impl,std::default_delete<_Ty>>' needs to have dll-interface to be used by clients of class 'BoostWrapper'
+          with
+          [
+              _Ty=BoostWrapper::Impl
+          ]
+  E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\GameObject\CarComponent\BoostWrapper.h(73): note: see declaration of 'std::unique_ptr<BoostWrapper::Impl,std::default_delete<_Ty>>'
+          with
+          [
+              _Ty=BoostWrapper::Impl
+          ]
+E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\GameObject\CarComponent\DodgeComponentWrapper.h(58): warning C4251: 'DodgeComponentWrapper::pimpl': class 'std::unique_ptr<DodgeComponentWrapper::Impl,std::default_delete<_Ty>>' needs to have dll-interface to be used by clients of class 'DodgeComponentWrapper'
+          with
+          [
+              _Ty=DodgeComponentWrapper::Impl
+          ]
+  E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\GameObject\CarComponent\DodgeComponentWrapper.h(58): note: see declaration of 'std::unique_ptr<DodgeComponentWrapper::Impl,std::default_delete<_Ty>>'
+          with
+          [
+              _Ty=DodgeComponentWrapper::Impl
+          ]
+E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\GameObject\CarComponent\DoubleJumpComponentWrapper.h(20): warning C4251: 'DoubleJumpComponentWrapper::pimpl': class 'std::unique_ptr<DoubleJumpComponentWrapper::Impl,std::default_delete<_Ty>>' needs to have dll-interface to be used by clients of class 'DoubleJumpComponentWrapper'
+          with
+          [
+              _Ty=DoubleJumpComponentWrapper::Impl
+          ]
+  E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\GameObject\CarComponent\DoubleJumpComponentWrapper.h(20): note: see declaration of 'std::unique_ptr<DoubleJumpComponentWrapper::Impl,std::default_delete<_Ty>>'
+          with
+          [
+              _Ty=DoubleJumpComponentWrapper::Impl
+          ]
+E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\GameObject\CarComponent\FlipCarComponentWrapper.h(27): warning C4251: 'FlipCarComponentWrapper::pimpl': class 'std::unique_ptr<FlipCarComponentWrapper::Impl,std::default_delete<_Ty>>' needs to have dll-interface to be used by clients of class 'FlipCarComponentWrapper'
+          with
+          [
+              _Ty=FlipCarComponentWrapper::Impl
+          ]
+  E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\GameObject\CarComponent\FlipCarComponentWrapper.h(27): note: see declaration of 'std::unique_ptr<FlipCarComponentWrapper::Impl,std::default_delete<_Ty>>'
+          with
+          [
+              _Ty=FlipCarComponentWrapper::Impl
+          ]
+E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\GameObject\CarComponent\JumpComponentWrapper.h(38): warning C4251: 'JumpComponentWrapper::pimpl': class 'std::unique_ptr<JumpComponentWrapper::Impl,std::default_delete<_Ty>>' needs to have dll-interface to be used by clients of class 'JumpComponentWrapper'
+          with
+          [
+              _Ty=JumpComponentWrapper::Impl
+          ]
+  E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\GameObject\CarComponent\JumpComponentWrapper.h(38): note: see declaration of 'std::unique_ptr<JumpComponentWrapper::Impl,std::default_delete<_Ty>>'
+          with
+          [
+              _Ty=JumpComponentWrapper::Impl
+          ]
+E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\GameObject\CarComponent\PrimitiveComponentWrapper.h(139): warning C4251: 'PrimitiveComponentWrapper::pimpl': class 'std::unique_ptr<PrimitiveComponentWrapper::Impl,std::default_delete<_Ty>>' needs to have dll-interface to be used by clients of class 'PrimitiveComponentWrapper'
+          with
+          [
+              _Ty=PrimitiveComponentWrapper::Impl
+          ]
+  E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\GameObject\CarComponent\PrimitiveComponentWrapper.h(139): note: see declaration of 'std::unique_ptr<PrimitiveComponentWrapper::Impl,std::default_delete<_Ty>>'
+          with
+          [
+              _Ty=PrimitiveComponentWrapper::Impl
+          ]
+E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\GameObject\CarComponent\VehicleSimWrapper.h(47): warning C4251: 'VehicleSimWrapper::pimpl': class 'std::unique_ptr<VehicleSimWrapper::Impl,std::default_delete<_Ty>>' needs to have dll-interface to be used by clients of class 'VehicleSimWrapper'
+          with
+          [
+              _Ty=VehicleSimWrapper::Impl
+          ]
+  E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\GameObject\CarComponent\VehicleSimWrapper.h(47): note: see declaration of 'std::unique_ptr<VehicleSimWrapper::Impl,std::default_delete<_Ty>>'
+          with
+          [
+              _Ty=VehicleSimWrapper::Impl
+          ]
+E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\GameObject\FXActorWrapper.h(50): warning C4251: 'FXActorWrapper::pimpl': class 'std::unique_ptr<FXActorWrapper::Impl,std::default_delete<_Ty>>' needs to have dll-interface to be used by clients of class 'FXActorWrapper'
+          with
+          [
+              _Ty=FXActorWrapper::Impl
+          ]
+  E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\GameObject\FXActorWrapper.h(50): note: see declaration of 'std::unique_ptr<FXActorWrapper::Impl,std::default_delete<_Ty>>'
+          with
+          [
+              _Ty=FXActorWrapper::Impl
+          ]
+E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\GameObject\PerformanceStats\StatGraphWrapper.h(26): warning C4251: 'StatGraphWrapper::pimpl': class 'std::unique_ptr<StatGraphWrapper::Impl,std::default_delete<_Ty>>' needs to have dll-interface to be used by clients of class 'StatGraphWrapper'
+          with
+          [
+              _Ty=StatGraphWrapper::Impl
+          ]
+  E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\GameObject\PerformanceStats\StatGraphWrapper.h(26): note: see declaration of 'std::unique_ptr<StatGraphWrapper::Impl,std::default_delete<_Ty>>'
+          with
+          [
+              _Ty=StatGraphWrapper::Impl
+          ]
+E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\GameObject\PerformanceStats\InputBufferGraphWrapper.h(30): warning C4251: 'InputBufferGraphWrapper::pimpl': class 'std::unique_ptr<InputBufferGraphWrapper::Impl,std::default_delete<_Ty>>' needs to have dll-interface to be used by clients of class 'InputBufferGraphWrapper'
+          with
+          [
+              _Ty=InputBufferGraphWrapper::Impl
+          ]
+  E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\GameObject\PerformanceStats\InputBufferGraphWrapper.h(30): note: see declaration of 'std::unique_ptr<InputBufferGraphWrapper::Impl,std::default_delete<_Ty>>'
+          with
+          [
+              _Ty=InputBufferGraphWrapper::Impl
+          ]
+E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\GameObject\PerformanceStats\NetStatGraphWrapper.h(41): warning C4251: 'NetStatGraphWrapper::pimpl': class 'std::unique_ptr<NetStatGraphWrapper::Impl,std::default_delete<_Ty>>' needs to have dll-interface to be used by clients of class 'NetStatGraphWrapper'
+          with
+          [
+              _Ty=NetStatGraphWrapper::Impl
+          ]
+  E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\GameObject\PerformanceStats\NetStatGraphWrapper.h(41): note: see declaration of 'std::unique_ptr<NetStatGraphWrapper::Impl,std::default_delete<_Ty>>'
+          with
+          [
+              _Ty=NetStatGraphWrapper::Impl
+          ]
+E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\GameObject\PerformanceStats\PerfStatGraphWrapper.h(35): warning C4251: 'PerfStatGraphWrapper::pimpl': class 'std::unique_ptr<PerfStatGraphWrapper::Impl,std::default_delete<_Ty>>' needs to have dll-interface to be used by clients of class 'PerfStatGraphWrapper'
+          with
+          [
+              _Ty=PerfStatGraphWrapper::Impl
+          ]
+  E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\GameObject\PerformanceStats\PerfStatGraphWrapper.h(35): note: see declaration of 'std::unique_ptr<PerfStatGraphWrapper::Impl,std::default_delete<_Ty>>'
+          with
+          [
+              _Ty=PerfStatGraphWrapper::Impl
+          ]
+E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\GameObject\PerformanceStats\SampleHistoryWrapper.h(47): warning C4251: 'SampleHistoryWrapper::pimpl': class 'std::unique_ptr<SampleHistoryWrapper::Impl,std::default_delete<_Ty>>' needs to have dll-interface to be used by clients of class 'SampleHistoryWrapper'
+          with
+          [
+              _Ty=SampleHistoryWrapper::Impl
+          ]
+  E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\GameObject\PerformanceStats\SampleHistoryWrapper.h(47): note: see declaration of 'std::unique_ptr<SampleHistoryWrapper::Impl,std::default_delete<_Ty>>'
+          with
+          [
+              _Ty=SampleHistoryWrapper::Impl
+          ]
+E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\GameObject\PerformanceStats\SampleRecordSettingsWrapper.h(19): warning C4251: 'SampleRecordSettingsWrapper::pimpl': class 'std::unique_ptr<SampleRecordSettingsWrapper::Impl,std::default_delete<_Ty>>' needs to have dll-interface to be used by clients of class 'SampleRecordSettingsWrapper'
+          with
+          [
+              _Ty=SampleRecordSettingsWrapper::Impl
+          ]
+  E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\GameObject\PerformanceStats\SampleRecordSettingsWrapper.h(19): note: see declaration of 'std::unique_ptr<SampleRecordSettingsWrapper::Impl,std::default_delete<_Ty>>'
+          with
+          [
+              _Ty=SampleRecordSettingsWrapper::Impl
+          ]
+E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\GameObject\PerformanceStats\StatGraphSystemWrapper.h(39): warning C4251: 'StatGraphSystemWrapper::pimpl': class 'std::unique_ptr<StatGraphSystemWrapper::Impl,std::default_delete<_Ty>>' needs to have dll-interface to be used by clients of class 'StatGraphSystemWrapper'
+          with
+          [
+              _Ty=StatGraphSystemWrapper::Impl
+          ]
+  E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\GameObject\PerformanceStats\StatGraphSystemWrapper.h(39): note: see declaration of 'std::unique_ptr<StatGraphSystemWrapper::Impl,std::default_delete<_Ty>>'
+          with
+          [
+              _Ty=StatGraphSystemWrapper::Impl
+          ]
+E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\GameObject\PhysicalMaterialPropertyWrapper.h(21): warning C4251: 'PhysicalMaterialPropertyWrapper::pimpl': class 'std::unique_ptr<PhysicalMaterialPropertyWrapper::Impl,std::default_delete<_Ty>>' needs to have dll-interface to be used by clients of class 'PhysicalMaterialPropertyWrapper'
+          with
+          [
+              _Ty=PhysicalMaterialPropertyWrapper::Impl
+          ]
+  E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\GameObject\PhysicalMaterialPropertyWrapper.h(21): note: see declaration of 'std::unique_ptr<PhysicalMaterialPropertyWrapper::Impl,std::default_delete<_Ty>>'
+          with
+          [
+              _Ty=PhysicalMaterialPropertyWrapper::Impl
+          ]
+E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\GameObject\RumbleComponent\RumblePickupComponentWrapper.h(41): warning C4251: 'RumblePickupComponentWrapper::pimpl': class 'std::unique_ptr<RumblePickupComponentWrapper::Impl,std::default_delete<_Ty>>' needs to have dll-interface to be used by clients of class 'RumblePickupComponentWrapper'
+          with
+          [
+              _Ty=RumblePickupComponentWrapper::Impl
+          ]
+  E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\GameObject\RumbleComponent\RumblePickupComponentWrapper.h(41): note: see declaration of 'std::unique_ptr<RumblePickupComponentWrapper::Impl,std::default_delete<_Ty>>'
+          with
+          [
+              _Ty=RumblePickupComponentWrapper::Impl
+          ]
+E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\GameObject\RumbleComponent\AttachmentPickup.h(17): warning C4251: 'AttachmentPickup::pimpl': class 'std::unique_ptr<AttachmentPickup::Impl,std::default_delete<_Ty>>' needs to have dll-interface to be used by clients of class 'AttachmentPickup'
+          with
+          [
+              _Ty=AttachmentPickup::Impl
+          ]
+  E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\GameObject\RumbleComponent\AttachmentPickup.h(17): note: see declaration of 'std::unique_ptr<AttachmentPickup::Impl,std::default_delete<_Ty>>'
+          with
+          [
+              _Ty=AttachmentPickup::Impl
+          ]
+E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\GameObject\RumbleComponent\TargetedPickup.h(44): warning C4251: 'TargetedPickup::pimpl': class 'std::unique_ptr<TargetedPickup::Impl,std::default_delete<_Ty>>' needs to have dll-interface to be used by clients of class 'TargetedPickup'
+          with
+          [
+              _Ty=TargetedPickup::Impl
+          ]
+  E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\GameObject\RumbleComponent\TargetedPickup.h(44): note: see declaration of 'std::unique_ptr<TargetedPickup::Impl,std::default_delete<_Ty>>'
+          with
+          [
+              _Ty=TargetedPickup::Impl
+          ]
+E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\GameObject\RumbleComponent\SpringPickup.h(93): warning C4251: 'SpringPickup::pimpl': class 'std::unique_ptr<SpringPickup::Impl,std::default_delete<_Ty>>' needs to have dll-interface to be used by clients of class 'SpringPickup'
+          with
+          [
+              _Ty=SpringPickup::Impl
+          ]
+  E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\GameObject\RumbleComponent\SpringPickup.h(93): note: see declaration of 'std::unique_ptr<SpringPickup::Impl,std::default_delete<_Ty>>'
+          with
+          [
+              _Ty=SpringPickup::Impl
+          ]
+E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\GameObject\RumbleComponent\BallCarSpringPickup.h(16): warning C4251: 'BallCarSpringPickup::pimpl': class 'std::unique_ptr<BallCarSpringPickup::Impl,std::default_delete<_Ty>>' needs to have dll-interface to be used by clients of class 'BallCarSpringPickup'
+          with
+          [
+              _Ty=BallCarSpringPickup::Impl
+          ]
+  E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\GameObject\RumbleComponent\BallCarSpringPickup.h(16): note: see declaration of 'std::unique_ptr<BallCarSpringPickup::Impl,std::default_delete<_Ty>>'
+          with
+          [
+              _Ty=BallCarSpringPickup::Impl
+          ]
+E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\GameObject\RumbleComponent\BallFreezePickup.h(41): warning C4251: 'BallFreezePickup::pimpl': class 'std::unique_ptr<BallFreezePickup::Impl,std::default_delete<_Ty>>' needs to have dll-interface to be used by clients of class 'BallFreezePickup'
+          with
+          [
+              _Ty=BallFreezePickup::Impl
+          ]
+  E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\GameObject\RumbleComponent\BallFreezePickup.h(41): note: see declaration of 'std::unique_ptr<BallFreezePickup::Impl,std::default_delete<_Ty>>'
+          with
+          [
+              _Ty=BallFreezePickup::Impl
+          ]
+E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\GameObject\RumbleComponent\BallLassoPickup.h(17): warning C4251: 'BallLassoPickup::pimpl': class 'std::unique_ptr<BallLassoPickup::Impl,std::default_delete<_Ty>>' needs to have dll-interface to be used by clients of class 'BallLassoPickup'
+          with
+          [
+              _Ty=BallLassoPickup::Impl
+          ]
+  E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\GameObject\RumbleComponent\BallLassoPickup.h(17): note: see declaration of 'std::unique_ptr<BallLassoPickup::Impl,std::default_delete<_Ty>>'
+          with
+          [
+              _Ty=BallLassoPickup::Impl
+          ]
+E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\GameObject\RumbleComponent\BattarangPickup.h(19): warning C4251: 'BattarangPickup::pimpl': class 'std::unique_ptr<BattarangPickup::Impl,std::default_delete<_Ty>>' needs to have dll-interface to be used by clients of class 'BattarangPickup'
+          with
+          [
+              _Ty=BattarangPickup::Impl
+          ]
+  E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\GameObject\RumbleComponent\BattarangPickup.h(19): note: see declaration of 'std::unique_ptr<BattarangPickup::Impl,std::default_delete<_Ty>>'
+          with
+          [
+              _Ty=BattarangPickup::Impl
+          ]
+E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\GameObject\RumbleComponent\BoostModPickup.h(23): warning C4251: 'BoostModPickup::pimpl': class 'std::unique_ptr<BoostModPickup::Impl,std::default_delete<_Ty>>' needs to have dll-interface to be used by clients of class 'BoostModPickup'
+          with
+          [
+              _Ty=BoostModPickup::Impl
+          ]
+  E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\GameObject\RumbleComponent\BoostModPickup.h(23): note: see declaration of 'std::unique_ptr<BoostModPickup::Impl,std::default_delete<_Ty>>'
+          with
+          [
+              _Ty=BoostModPickup::Impl
+          ]
+E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\GameObject\RumbleComponent\BoostOverridePickup.h(21): warning C4251: 'BoostOverridePickup::pimpl': class 'std::unique_ptr<BoostOverridePickup::Impl,std::default_delete<_Ty>>' needs to have dll-interface to be used by clients of class 'BoostOverridePickup'
+          with
+          [
+              _Ty=BoostOverridePickup::Impl
+          ]
+  E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\GameObject\RumbleComponent\BoostOverridePickup.h(21): note: see declaration of 'std::unique_ptr<BoostOverridePickup::Impl,std::default_delete<_Ty>>'
+          with
+          [
+              _Ty=BoostOverridePickup::Impl
+          ]
+E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\GameObject\RumbleComponent\CarSpeedPickup.h(23): warning C4251: 'CarSpeedPickup::pimpl': class 'std::unique_ptr<CarSpeedPickup::Impl,std::default_delete<_Ty>>' needs to have dll-interface to be used by clients of class 'CarSpeedPickup'
+          with
+          [
+              _Ty=CarSpeedPickup::Impl
+          ]
+  E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\GameObject\RumbleComponent\CarSpeedPickup.h(23): note: see declaration of 'std::unique_ptr<CarSpeedPickup::Impl,std::default_delete<_Ty>>'
+          with
+          [
+              _Ty=CarSpeedPickup::Impl
+          ]
+E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\GameObject\RumbleComponent\DemolishPickup.h(25): warning C4251: 'DemolishPickup::pimpl': class 'std::unique_ptr<DemolishPickup::Impl,std::default_delete<_Ty>>' needs to have dll-interface to be used by clients of class 'DemolishPickup'
+          with
+          [
+              _Ty=DemolishPickup::Impl
+          ]
+  E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\GameObject\RumbleComponent\DemolishPickup.h(25): note: see declaration of 'std::unique_ptr<DemolishPickup::Impl,std::default_delete<_Ty>>'
+          with
+          [
+              _Ty=DemolishPickup::Impl
+          ]
+E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\GameObject\RumbleComponent\GrapplingHookPickup.h(77): warning C4251: 'GrapplingHookPickup::pimpl': class 'std::unique_ptr<GrapplingHookPickup::Impl,std::default_delete<_Ty>>' needs to have dll-interface to be used by clients of class 'GrapplingHookPickup'
+          with
+          [
+              _Ty=GrapplingHookPickup::Impl
+          ]
+  E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\GameObject\RumbleComponent\GrapplingHookPickup.h(77): note: see declaration of 'std::unique_ptr<GrapplingHookPickup::Impl,std::default_delete<_Ty>>'
+          with
+          [
+              _Ty=GrapplingHookPickup::Impl
+          ]
+E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\GameObject\RumbleComponent\GravityPickup.h(36): warning C4251: 'GravityPickup::pimpl': class 'std::unique_ptr<GravityPickup::Impl,std::default_delete<_Ty>>' needs to have dll-interface to be used by clients of class 'GravityPickup'
+          with
+          [
+              _Ty=GravityPickup::Impl
+          ]
+  E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\GameObject\RumbleComponent\GravityPickup.h(36): note: see declaration of 'std::unique_ptr<GravityPickup::Impl,std::default_delete<_Ty>>'
+          with
+          [
+              _Ty=GravityPickup::Impl
+          ]
+E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\GameObject\RumbleComponent\HandbrakeOverridePickup.h(20): warning C4251: 'HandbrakeOverridePickup::pimpl': class 'std::unique_ptr<HandbrakeOverridePickup::Impl,std::default_delete<_Ty>>' needs to have dll-interface to be used by clients of class 'HandbrakeOverridePickup'
+          with
+          [
+              _Ty=HandbrakeOverridePickup::Impl
+          ]
+  E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\GameObject\RumbleComponent\HandbrakeOverridePickup.h(20): note: see declaration of 'std::unique_ptr<HandbrakeOverridePickup::Impl,std::default_delete<_Ty>>'
+          with
+          [
+              _Ty=HandbrakeOverridePickup::Impl
+          ]
+E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\GameObject\RumbleComponent\HitForcePickup.h(36): warning C4251: 'HitForcePickup::pimpl': class 'std::unique_ptr<HitForcePickup::Impl,std::default_delete<_Ty>>' needs to have dll-interface to be used by clients of class 'HitForcePickup'
+          with
+          [
+              _Ty=HitForcePickup::Impl
+          ]
+  E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\GameObject\RumbleComponent\HitForcePickup.h(36): note: see declaration of 'std::unique_ptr<HitForcePickup::Impl,std::default_delete<_Ty>>'
+          with
+          [
+              _Ty=HitForcePickup::Impl
+          ]
+E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\GameObject\RumbleComponent\SwapperPickup.h(21): warning C4251: 'SwapperPickup::pimpl': class 'std::unique_ptr<SwapperPickup::Impl,std::default_delete<_Ty>>' needs to have dll-interface to be used by clients of class 'SwapperPickup'
+          with
+          [
+              _Ty=SwapperPickup::Impl
+          ]
+  E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\GameObject\RumbleComponent\SwapperPickup.h(21): note: see declaration of 'std::unique_ptr<SwapperPickup::Impl,std::default_delete<_Ty>>'
+          with
+          [
+              _Ty=SwapperPickup::Impl
+          ]
+E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\GameObject\RumbleComponent\TimeBombPickup.h(36): warning C4251: 'TimeBombPickup::pimpl': class 'std::unique_ptr<TimeBombPickup::Impl,std::default_delete<_Ty>>' needs to have dll-interface to be used by clients of class 'TimeBombPickup'
+          with
+          [
+              _Ty=TimeBombPickup::Impl
+          ]
+  E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\GameObject\RumbleComponent\TimeBombPickup.h(36): note: see declaration of 'std::unique_ptr<TimeBombPickup::Impl,std::default_delete<_Ty>>'
+          with
+          [
+              _Ty=TimeBombPickup::Impl
+          ]
+E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\GameObject\RumbleComponent\TornadoPickup.h(48): warning C4251: 'TornadoPickup::pimpl': class 'std::unique_ptr<TornadoPickup::Impl,std::default_delete<_Ty>>' needs to have dll-interface to be used by clients of class 'TornadoPickup'
+          with
+          [
+              _Ty=TornadoPickup::Impl
+          ]
+  E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\GameObject\RumbleComponent\TornadoPickup.h(48): note: see declaration of 'std::unique_ptr<TornadoPickup::Impl,std::default_delete<_Ty>>'
+          with
+          [
+              _Ty=TornadoPickup::Impl
+          ]
+E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\GameObject\RumbleComponent\VelcroPickup.h(52): warning C4251: 'VelcroPickup::pimpl': class 'std::unique_ptr<VelcroPickup::Impl,std::default_delete<_Ty>>' needs to have dll-interface to be used by clients of class 'VelcroPickup'
+          with
+          [
+              _Ty=VelcroPickup::Impl
+          ]
+  E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\GameObject\RumbleComponent\VelcroPickup.h(52): note: see declaration of 'std::unique_ptr<VelcroPickup::Impl,std::default_delete<_Ty>>'
+          with
+          [
+              _Ty=VelcroPickup::Impl
+          ]
+E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\PlayerControllerWrapper.h(286): warning C4251: 'PlayerControllerWrapper::pimpl': class 'std::unique_ptr<PlayerControllerWrapper::Impl,std::default_delete<_Ty>>' needs to have dll-interface to be used by clients of class 'PlayerControllerWrapper'
+          with
+          [
+              _Ty=PlayerControllerWrapper::Impl
+          ]
+  E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\PlayerControllerWrapper.h(286): note: see declaration of 'std::unique_ptr<PlayerControllerWrapper::Impl,std::default_delete<_Ty>>'
+          with
+          [
+              _Ty=PlayerControllerWrapper::Impl
+          ]
+E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\ReplayServerWrapper.h(24): warning C4251: 'ReplayServerWrapper::pimpl': class 'std::unique_ptr<ReplayServerWrapper::Impl,std::default_delete<_Ty>>' needs to have dll-interface to be used by clients of class 'ReplayServerWrapper'
+          with
+          [
+              _Ty=ReplayServerWrapper::Impl
+          ]
+  E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\wrappers\ReplayServerWrapper.h(24): note: see declaration of 'std::unique_ptr<ReplayServerWrapper::Impl,std::default_delete<_Ty>>'
+          with
+          [
+              _Ty=ReplayServerWrapper::Impl
+          ]
+E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\plugin\bakkesmodplugin.h(61): warning C4251: 'BakkesMod::Plugin::BakkesModPlugin::cvarManager': class 'std::shared_ptr<CVarManagerWrapper>' needs to have dll-interface to be used by clients of class 'BakkesMod::Plugin::BakkesModPlugin'
+  E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\plugin\bakkesmodplugin.h(61): note: see declaration of 'std::shared_ptr<CVarManagerWrapper>'
+E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\plugin\bakkesmodplugin.h(62): warning C4251: 'BakkesMod::Plugin::BakkesModPlugin::gameWrapper': class 'std::shared_ptr<GameWrapper>' needs to have dll-interface to be used by clients of class 'BakkesMod::Plugin::BakkesModPlugin'
+  E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\bakkesmodsdk\include\bakkesmod\plugin\bakkesmodplugin.h(62): note: see declaration of 'std::shared_ptr<GameWrapper>'
+E:\Ben\Documents\RL_AI\Docs\nn_data_plugin\nn_data_plugin\Source.cpp(751): warning C4305: '=': truncation from 'double' to 'float'
+E:\Ben\Documents\RL_AI\Docs\nn_data_plugin\nn_data_plugin\Source.cpp(1022): warning C4244: '=': conversion from 'double' to 'BYTE', possible loss of data
+E:\Ben\Documents\RL_AI\Docs\nn_data_plugin\nn_data_plugin\Source.cpp(1025): warning C4244: '=': conversion from 'double' to 'BYTE', possible loss of data
+E:\Ben\Documents\RL_AI\Docs\nn_data_plugin\nn_data_plugin\Source.cpp(1030): warning C4244: '=': conversion from 'double' to 'BYTE', possible loss of data
+E:\Ben\Documents\RL_AI\Docs\nn_data_plugin\nn_data_plugin\Source.cpp(1033): warning C4244: '=': conversion from 'double' to 'BYTE', possible loss of data
+E:\Ben\Documents\RL_AI\Docs\nn_data_plugin\nn_data_plugin\Source.cpp(1042): warning C4244: '=': conversion from 'double' to 'BYTE', possible loss of data
+E:\Ben\Documents\RL_AI\Docs\nn_data_plugin\nn_data_plugin\Source.cpp(1050): warning C4244: '=': conversion from 'double' to 'BYTE', possible loss of data
+E:\Ben\Documents\RL_AI\Docs\nn_data_plugin\nn_data_plugin\Source.cpp(1064): warning C4244: '=': conversion from 'double' to 'BYTE', possible loss of data
+E:\Ben\Documents\RL_AI\Docs\nn_data_plugin\nn_data_plugin\Source.cpp(1072): warning C4244: '=': conversion from 'double' to 'BYTE', possible loss of data
+E:\Ben\Documents\RL_AI\Docs\nn_data_plugin\nn_data_plugin\Source.cpp(1094): warning C4804: '>=': unsafe use of type 'bool' in operation
+E:\Ben\Documents\RL_AI\Docs\nn_data_plugin\nn_data_plugin\Source.cpp(1100): warning C4804: '>=': unsafe use of type 'bool' in operation
+E:\Ben\Documents\RL_AI\Docs\nn_data_plugin\nn_data_plugin\Source.cpp(1106): warning C4804: '>=': unsafe use of type 'bool' in operation
+     Creating library E:\Ben\Documents\RL_AI\Docs\nn_data_plugin\Release\nn_data_plugin.lib and object E:\Ben\Documents\RL_AI\Docs\nn_data_plugin\Release\nn_data_plugin.exp
+  Generating code
+  1 of 931 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  nn_data_plugin.vcxproj -> E:\Ben\Documents\RL_AI\Docs\nn_data_plugin\Release\nn_data_plugin.dll
+  04:38:55 [INFO] Copying plugin to E:\Programs\Steam\steamapps\common\rocketleague\Binaries\Win32\bakkesmod\plugins\nn_data_plugin.dll
+  04:38:55 [INFO] Done
