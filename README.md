@@ -3,6 +3,6 @@ This is a Bakkes Mod plugin which, when built as a dll, is used to automatically
 This project can also take a path to a neural network model and control the vehicle using this model.
 
 There are optional paramters in nn_dat_plugin/nn_data.h:
-enable_bot: Determines if the neural network model will be used to determine control values
-enable_bot_control: Determines if the control values will actually be used to control the vehicle (using vigem).
-enable_data_recording: Determines if data will be recorded from online matches and uploaded to the shared dropbox.
+- enable_bot: Determines if the neural network model will be used to determine control values
+- enable_bot_control: Determines if the control values will actually be used to control the vehicle (using vigem).
+- enable_data_recording: Determines if data will be recorded from online matches and uploaded to the shared dropbox.
