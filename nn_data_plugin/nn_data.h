@@ -3,7 +3,6 @@
 #pragma comment (lib, "ws2_32")
 #pragma comment (lib, "Crypt32")
 #pragma comment (lib, "Wldap32")
-//#pragma comment(lib, "ViGEmClient.lib")
 #define NOMINMAX
 #include "bakkesmod/plugin/bakkesmodplugin.h"
 #include <iostream>
@@ -12,16 +11,12 @@
 #include <iterator>
 #include <math.h> 
 #include <windows.h>
-// DS4 Emulator (ViGEm)
 #include <stdlib.h>
 #include <cstdio>
 #include <ViGEm/Client.h>
 #define WIN32_LEAN_AND_MEAN
 // Keras, TensorFlow
 #include <fdeep/fdeep.hpp>
-// Azure File Storage
-//#include <was/storage_account.h>
-//#include <was/file.h>
 // Time tests
 #include <chrono>
 // Dropbox File Storage
@@ -33,8 +28,6 @@
 
 class nn_data_plugin : public BakkesMod::Plugin::BakkesModPlugin
 {
-//private:
-//	shared_ptr<bool> enable_recording;
 public:
 	virtual void onLoad();
 	virtual void onUnload();
@@ -70,8 +63,5 @@ public:
 	std::chrono::high_resolution_clock::time_point saved_time;
 	int last_mode_played = 0;
 	int loop_count = 0;
-	bool enable_bot = true;
-	bool enable_bot_control = true;
-	bool enable_data_recording = false;
-	bool normalize_inputs = false;
+	bool enable_data_recording = true;
 };
